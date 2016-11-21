@@ -5,6 +5,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-echo "Esto es un fichero nuevo";
+echo "Esto es un fichero nuevo, modificado en el github.com";
 ?>
 
